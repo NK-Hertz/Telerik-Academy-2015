@@ -1,0 +1,5 @@
+E:\Telerik-Academy\2014-2015\QPC\Tasks\NamingIdentifiers\Homework\bin\Debug\Minesweeper.exe
+E:\Telerik-Academy\2014-2015\QPC\Tasks\NamingIdentifiers\Homework\bin\Debug\Minesweeper.pdb
+E:\Telerik-Academy\2014-2015\QPC\Tasks\NamingIdentifiers\Homework\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\Tasks\NamingIdentifiers\Homework\obj\Debug\Minesweeper.exe
+E:\Telerik-Academy\2014-2015\QPC\Tasks\NamingIdentifiers\Homework\obj\Debug\Minesweeper.pdb
