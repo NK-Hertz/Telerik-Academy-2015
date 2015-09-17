@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentAndCourses.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:StudentAndCourses.Fakes.ShimCourse">
+            <summary>Shim type of StudentAndCourses.Course</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimCourse.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimCourse.#ctor(StudentAndCourses.Course)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimCourse.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimCourse.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AddStudentStudent">
+            <summary>Sets the shim of Course.AddStudent(Student student)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.ConstructorString">
+            <summary>Sets the shim of Course.Course(String name)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.NameGet">
+            <summary>Sets the shim of Course.get_Name()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.NameSetString">
+            <summary>Sets the shim of Course.set_Name(String value)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.RemoveStudentStudent">
+            <summary>Sets the shim of Course.RemoveStudent(Student student)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.StaticConstructor">
+            <summary>Sets the shim of Course.Course()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.StudentsGet">
+            <summary>Sets the shim of Course.get_Students()</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.ShimCourse.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AllInstances.AddStudentStudent">
+            <summary>Sets the shim of Course.AddStudent(Student student)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AllInstances.NameGet">
+            <summary>Sets the shim of Course.get_Name()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AllInstances.NameSetString">
+            <summary>Sets the shim of Course.set_Name(String value)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AllInstances.RemoveStudentStudent">
+            <summary>Sets the shim of Course.RemoveStudent(Student student)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimCourse.AllInstances.StudentsGet">
+            <summary>Sets the shim of Course.get_Students()</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.ShimSchool">
+            <summary>Shim type of StudentAndCourses.School</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimSchool.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimSchool.#ctor(StudentAndCourses.School)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimSchool.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimSchool.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.AddCourseCourse">
+            <summary>Sets the shim of School.AddCourse(Course course)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.Constructor">
+            <summary>Sets the shim of School.School()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.CoursesGet">
+            <summary>Sets the shim of School.get_Courses()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.RefreshSchoolStudentList">
+            <summary>Sets the shim of School.RefreshSchoolStudentList()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.StudentsGet">
+            <summary>Sets the shim of School.get_Students()</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.ShimSchool.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.AllInstances.AddCourseCourse">
+            <summary>Sets the shim of School.AddCourse(Course course)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.AllInstances.CoursesGet">
+            <summary>Sets the shim of School.get_Courses()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.AllInstances.RefreshSchoolStudentList">
+            <summary>Sets the shim of School.RefreshSchoolStudentList()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimSchool.AllInstances.StudentsGet">
+            <summary>Sets the shim of School.get_Students()</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.ShimStudent">
+            <summary>Shim type of StudentAndCourses.Student</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimStudent.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimStudent.#ctor(StudentAndCourses.Student)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimStudent.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.ShimStudent.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.ConstructorStringInt32">
+            <summary>Sets the shim of Student.Student(String name, Int32 number)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.NameGet">
+            <summary>Sets the shim of Student.get_Name()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.NameSetString">
+            <summary>Sets the shim of Student.set_Name(String value)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.StaticConstructor">
+            <summary>Sets the shim of Student.Student()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.UniqueNumberGet">
+            <summary>Sets the shim of Student.get_UniqueNumber()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.UniqueNumberSetInt32">
+            <summary>Sets the shim of Student.set_UniqueNumber(Int32 value)</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.ShimStudent.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.AllInstances.NameGet">
+            <summary>Sets the shim of Student.get_Name()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.AllInstances.NameSetString">
+            <summary>Sets the shim of Student.set_Name(String value)</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.AllInstances.UniqueNumberGet">
+            <summary>Sets the shim of Student.get_UniqueNumber()</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.ShimStudent.AllInstances.UniqueNumberSetInt32">
+            <summary>Sets the shim of Student.set_UniqueNumber(Int32 value)</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.StubCourse">
+            <summary>Stub type of StudentAndCourses.Course</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubCourse.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubCourse.InitializeStub">
+            <summary>Initializes a new instance of type StubCourse</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubCourse.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubCourse.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubCourse.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.StubSchool">
+            <summary>Stub type of StudentAndCourses.School</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubSchool.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubSchool.InitializeStub">
+            <summary>Initializes a new instance of type StubSchool</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubSchool.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubSchool.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubSchool.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:StudentAndCourses.Fakes.StubStudent">
+            <summary>Stub type of StudentAndCourses.Student</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubStudent.#ctor(System.String,System.Int32)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:StudentAndCourses.Fakes.StubStudent.InitializeStub">
+            <summary>Initializes a new instance of type StubStudent</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubStudent.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubStudent.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:StudentAndCourses.Fakes.StubStudent.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

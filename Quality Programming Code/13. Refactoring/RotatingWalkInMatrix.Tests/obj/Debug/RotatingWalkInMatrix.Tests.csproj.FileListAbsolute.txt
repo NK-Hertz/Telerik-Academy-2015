@@ -1,0 +1,7 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\bin\Debug\GameFifteen.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\13. Refactoring\RotatingWalkInMatrix.Tests\bin\Debug\GameFifteen.pdb

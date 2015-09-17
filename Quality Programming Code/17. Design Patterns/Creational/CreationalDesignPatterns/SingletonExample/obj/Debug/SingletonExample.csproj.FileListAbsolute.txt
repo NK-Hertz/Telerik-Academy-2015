@@ -1,0 +1,6 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\bin\Debug\SingletonExample.exe.config
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\bin\Debug\SingletonExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\bin\Debug\SingletonExample.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\obj\Debug\SingletonExample.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\obj\Debug\SingletonExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Creational\CreationalDesignPatterns\SingletonExample\obj\Debug\SingletonExample.pdb

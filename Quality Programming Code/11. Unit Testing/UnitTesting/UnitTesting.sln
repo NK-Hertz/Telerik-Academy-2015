@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAndCourses", "StudentAndCourses\StudentAndCourses.csproj", "{128A754B-1653-4583-AF8D-8C6987DF9DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAndCourses.Tests", "School.Tests\StudentAndCourses.Tests.csproj", "{83C420DF-4D64-481D-8A02-C7A9FF00219B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase.Logic", "SantaseGameEngine-master\Source\Santase.Logic\Santase.Logic.csproj", "{76FD6AC0-6F00-4F92-8857-876E60AA9FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase.ConsoleUI", "SantaseGameEngine-master\Source\Santase.ConsoleUI\Santase.ConsoleUI.csproj", "{D955B803-9058-49A4-B97C-6C13B01B4C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santase.Logic.Tests", "Santase.Logic.Tests\Santase.Logic.Tests.csproj", "{FAFA55C4-CCCA-44E3-A7C0-BE68E4D23899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128A754B-1653-4583-AF8D-8C6987DF9DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128A754B-1653-4583-AF8D-8C6987DF9DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128A754B-1653-4583-AF8D-8C6987DF9DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128A754B-1653-4583-AF8D-8C6987DF9DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C420DF-4D64-481D-8A02-C7A9FF00219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C420DF-4D64-481D-8A02-C7A9FF00219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C420DF-4D64-481D-8A02-C7A9FF00219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C420DF-4D64-481D-8A02-C7A9FF00219B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FD6AC0-6F00-4F92-8857-876E60AA9FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FD6AC0-6F00-4F92-8857-876E60AA9FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FD6AC0-6F00-4F92-8857-876E60AA9FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FD6AC0-6F00-4F92-8857-876E60AA9FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D955B803-9058-49A4-B97C-6C13B01B4C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D955B803-9058-49A4-B97C-6C13B01B4C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D955B803-9058-49A4-B97C-6C13B01B4C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D955B803-9058-49A4-B97C-6C13B01B4C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFA55C4-CCCA-44E3-A7C0-BE68E4D23899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFA55C4-CCCA-44E3-A7C0-BE68E4D23899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFA55C4-CCCA-44E3-A7C0-BE68E4D23899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFA55C4-CCCA-44E3-A7C0-BE68E4D23899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

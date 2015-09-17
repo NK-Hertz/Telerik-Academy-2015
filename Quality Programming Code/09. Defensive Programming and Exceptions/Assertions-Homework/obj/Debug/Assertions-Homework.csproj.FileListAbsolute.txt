@@ -1,0 +1,4 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

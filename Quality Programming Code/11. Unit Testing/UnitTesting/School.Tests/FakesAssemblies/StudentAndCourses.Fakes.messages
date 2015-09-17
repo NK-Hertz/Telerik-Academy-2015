@@ -1,0 +1,2 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\Fakes\StudentAndCourses.fakes : warning : Cannot generate stub for StudentAndCourses.StudentAndCourses: type is not visible to exported or assembly(StudentAndCourses.Fakes).
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\Fakes\StudentAndCourses.fakes : warning : Cannot generate shim for StudentAndCourses.StudentAndCourses: type is not visible to exported or assembly(StudentAndCourses.Fakes).

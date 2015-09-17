@@ -1,0 +1,5 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\10. Code Tuning and Optimization\Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe.config
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\10. Code Tuning and Optimization\Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\10. Code Tuning and Optimization\Homework\CompareAdvancedMath\bin\Debug\CompareAdvancedMath.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\10. Code Tuning and Optimization\Homework\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\10. Code Tuning and Optimization\Homework\CompareAdvancedMath\obj\Debug\CompareAdvancedMath.pdb

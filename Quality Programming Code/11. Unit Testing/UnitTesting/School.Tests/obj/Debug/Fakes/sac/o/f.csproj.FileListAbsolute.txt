@@ -1,0 +1,9 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\StudentAndCourses.Fakes.xml
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\StudentAndCourses.Fakes.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\StudentAndCourses.Fakes.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\StudentAndCourses.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\b\StudentAndCourses.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\o\f.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\o\StudentAndCourses.Fakes.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\School.Tests\obj\Debug\Fakes\sac\o\StudentAndCourses.Fakes.pdb

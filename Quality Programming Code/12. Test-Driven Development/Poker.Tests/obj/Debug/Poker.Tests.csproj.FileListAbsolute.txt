@@ -1,0 +1,7 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\bin\Debug\Poker.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\bin\Debug\Poker.Tests.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\bin\Debug\Poker.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\bin\Debug\Poker.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\obj\Debug\Poker.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\12. Test-Driven Development\Poker.Tests\obj\Debug\Poker.Tests.pdb

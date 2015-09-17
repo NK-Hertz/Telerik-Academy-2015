@@ -1,0 +1,6 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\bin\Debug\StudentAndCourses.exe.config
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\obj\Debug\StudentAndCourses.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\bin\Debug\StudentAndCourses.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\bin\Debug\StudentAndCourses.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\obj\Debug\StudentAndCourses.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\StudentAndCourses\obj\Debug\StudentAndCourses.pdb

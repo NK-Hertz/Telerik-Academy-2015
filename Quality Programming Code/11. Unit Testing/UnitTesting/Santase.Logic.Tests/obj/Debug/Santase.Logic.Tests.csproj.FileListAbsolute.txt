@@ -1,0 +1,11 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\obj\Debug\Santase.Logic.Tests.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.Logic.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.Logic.Tests.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\nunit.framework.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.Logic.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.Logic.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\nunit.framework.xml
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\obj\Debug\Santase.Logic.Tests.dll
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\obj\Debug\Santase.Logic.Tests.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.ConsoleUI.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\11. Unit Testing\Homework\UnitTesting\Santase.Logic.Tests\bin\Debug\Santase.ConsoleUI.pdb
