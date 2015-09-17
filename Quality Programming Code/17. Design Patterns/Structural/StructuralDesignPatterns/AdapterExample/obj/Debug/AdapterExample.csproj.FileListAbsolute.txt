@@ -1,0 +1,5 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\AdapterExample\bin\Debug\AdapterExample.exe.config
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\AdapterExample\bin\Debug\AdapterExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\AdapterExample\bin\Debug\AdapterExample.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\AdapterExample\obj\Debug\AdapterExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\AdapterExample\obj\Debug\AdapterExample.pdb

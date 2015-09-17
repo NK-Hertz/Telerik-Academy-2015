@@ -1,0 +1,6 @@
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\bin\Debug\FlyweightExample.exe.config
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\bin\Debug\FlyweightExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\bin\Debug\FlyweightExample.pdb
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\obj\Debug\FlyweightExample.csprojResolveAssemblyReference.cache
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\obj\Debug\FlyweightExample.exe
+E:\Telerik-Academy\2014-2015\QPC\High-Quality-Code\17. Design Patterns\Homework\Structural\StructuralDesignPatterns\FlyweightExample\obj\Debug\FlyweightExample.pdb
