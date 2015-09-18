@@ -9,35 +9,32 @@
             {   
                 //... 
             }
-			
             private Carrot GetCarrot()
             {
                 //...
             }
-			
-			private Potato GetPotato()
+            private void Cut(Vegetable potato)
             {
                 //...
-            }
-			
-			private void Cut(Vegetable potato)
-            {
-                //...
-            } 
-			
+            }  
             public void Cook()
             {
                 Potato potato = GetPotato();
-				Peel(potato);
-                Cut(potato);
-				
                 Carrot carrot = GetCarrot();
+                Bowl bowl;
+                Peel(potato);
+                        
                 Peel(carrot);
+                bowl = GetBowl();
+                Cut(potato);
                 Cut(carrot);
-				
-                Bowl bowl = GetBowl();
-				bowl.Add(potato);
                 bowl.Add(carrot);
+                        
+                bowl.Add(potato);
+            }
+            private Potato GetPotato()
+            {
+                //...
             }
         }
 
@@ -46,38 +43,40 @@
     Potato potato;
     //... 
     if (potato != null)
-	{
-		if(potato.HasBeenPeeled && potato.IsEdible)
-		{
-			Cook(potato);
-		}
-	}
+       if(!potato.HasNotBeenPeeled && !potato.IsRotten)
+        Cook(potato);
 
 and
 
-	var xIsWithinGivenRange = MIN_X <= x && x <= MAX_X;
-	var yIsWithinGivenRange = MIN_Y <= y && y <= MAX_Y;
-	var paramsAreWithinRange = xIsWithinGivenRange && yIsWithinGivenRange;
-    if (paramsAreWithinRange && shouldVisitCell)
+    if (x >= MIN_X && (x =< MAX_X && ((MAX_Y >= y && MIN_Y <= y) && !shouldNotVisitCell)))
     {
        VisitCell();
     }
 
 ## Task 3. Refactor the following loop
 
-    for (int i = 0; i < 100; i++) 
+    int i=0;
+    for (i = 0; i < 100;) 
     {
-		var currentValue = array[i];
-		Console.WriteLine(currentValue);
-		var isITens = i % 10 == 0;
-		if (isITens)
-		{			
-			var isCurrentValueEqualToExpected = array[i] == expectedValue;
-			if (isCurrentValueEqualToExpected) 
-			{
-				Console.WriteLine("Value Found");
-			}
-		}
+       if (i % 10 == 0)
+       {
+        Console.WriteLine(array[i]);
+        if ( array[i] == expectedValue ) 
+        {
+           i = 666;
+        }
+        i++;
+       }
+       else
+       {
+            Console.WriteLine(array[i]);
+        i++;
+       }
+    }
+    // More code here
+    if (i == 666)
+    {
+        Console.WriteLine("Value Found");
     }
 
 ## Task 4*. Refactor your C# 1 exam solutions
