@@ -5,103 +5,54 @@
 
         public class Size
         {
-            private double width;
-			private double height;
-			
-            public Size(double width, double height)
+            public double wIdTh, Viso4ina;
+            public Size(double w, double h)
             {
-                this.Width = width;
-                this.Height = height;
+                this.wIdTh = w;
+                this.Viso4ina = h;
             }
-			
-			public double Width
-			{
-				get
-				{
-					return this.width;
-				}
-				set
-				{
-					this.width = value;
-				}
-			}
-			public double Height
-			{
-				get
-				{
-					return this.height;
-				}
-				set
-				{
-					this.height = value;
-				}
-			}
-			
-            public static Size GetRotatedSize(Size size, double angle)
+
+            public static Size GetRotatedSize(
+                Size s, double angleOfTheFigureThatWillBeRotaed)
             {
-				var absoluteValueOfCosineOfAngle = Math.Abs(Math.Cos(angle));
-				var absoluteValueOfSineOfAngle = Math.Abs(Math.Sin(angle));
-				var rotatedWidth = (absoluteValueOfCosineOfAngle * size.Width) + 
-                        (absoluteValueOfSineOfAngle * size.Height);
-				var rotatedHeight = (absoluteValueOfSineOfAngle *size.Width) + 
-                        (absoluteValueOfCosineOfAngle * size.Height);
-                return new Size(rotatedWidth, rotatedHeight);
+                return new Size(
+                    Math.Abs(Math.Cos(angleOfTheFigureThatWillBeRotaed)) * s.wIdTh + 
+                        Math.Abs(Math.Sin(angleOfTheFigureThatWillBeRotaed)) * s.Viso4ina,
+                    Math.Abs(Math.Sin(angleOfTheFigureThatWillBeRotaed)) * s.wIdTh + 
+                        Math.Abs(Math.Cos(angleOfTheFigureThatWillBeRotaed)) * s.Viso4ina);
             }
         }
 
 
 ## Task 2. Method PrintStatistics in C&#35;
 *	Refactor the following code to apply variable usage and naming best practices:
-		
-		public double GetMaxNumber(double[] collecton, int count)
-		{
-			double max = collection[0];
-            for (int i = 0; i < count; i++)
-            {
-                if (collection[i] > max)
-                {
-                    max = collection[i];
-                }
-            }
-			
-			return max;
-		}
 
-		public double GetMinNumber(double[] collection, int count)
-		{
-			double min = collection[0];
-            for (int i = 0; i < count; i++)
-            {
-                if (collection[i] < min)
-                {
-                    min = collection[i];
-                }
-            }
-			
-			return min;
-		}
-		
-		public double GetAverageValue(double[] collection, int count);
-		{
-			double sum = 0;
-            for (int i = 0; i < count; i++)
-            {
-                sum += collection[i];
-            }
-			
-			double average = sum / count;
-			
-			return average;
-		}
-		
-        public void PrintStatisticsForFirstNElements(double[] collection, int count)
+        public void PrintStatistics(double[] arr, int count)
         {
-			var max = GetMaxNumber(collection, count);
+            double max, tmp;
+            for (int i = 0; i < count; i++)
+            {
+                if (arr[i] > max)
+                {
+                    max = arr[i];
+                }
+            }
             PrintMax(max);
-           
-			var min = GetMinNumber(collection, count);
-            PrintMin(min);
+            tmp = 0;
+            max = 0;
+            for (int i = 0; i < count; i++)
+            {
+                if (arr[i] < max)
+                {
+                    max = arr[i];
+                }
+            }
+            PrintMin(max);
 
-            var average = GetAverageValue(collection, count);
-            PrintAverage(average);
+            tmp = 0;
+            for (int i = 0; i < count; i++)
+            {
+                tmp += arr[i];
+            }
+            PrintAvg(tmp/count);
         }
