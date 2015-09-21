@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoExample", "Memento\MementoExample.csproj", "{8F7FD12F-15C7-427E-977A-5C722797FE9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoExample", "MementoExample\MementoExample.csproj", "{8F7FD12F-15C7-427E-977A-5C722797FE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterExample", "Interpreter\InterpreterExample.csproj", "{404F9C27-F42D-4F72-9A0E-01095EB7372B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterExample", "InterpreterExample\InterpreterExample.csproj", "{404F9C27-F42D-4F72-9A0E-01095EB7372B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateExample", "StateExample\StateExample.csproj", "{ADF12094-DDE2-404D-B34A-E72573BCB427}"
 EndProject
