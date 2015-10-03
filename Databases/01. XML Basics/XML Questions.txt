@@ -1,0 +1,14 @@
+Q: What does the XML language represent? What is it used for?
+A: The XML language represents a set of rules for encoding documents 
+in a format which is both human-readable and machine-readable.The goals
+ of XML are simplicity, generality and usability across the Internet.
+It is used for the representation of documents and data structures. 
+
+Q: What do namespaces represent in an XML document? What are they used for?
+A: They are used for providing uniquely named elements and attributes in an 
+XML document. It removes the ambiguity when two elements of different type
+contain one or more sub-elements which are same in the other element. For 
+example - both student and exam have name.
+Typically, the URI chosen for the namespace of a given XML vocabulary 
+describes a resource under the control of the author or organization 
+defining the vocabulary, such as a URL for the author's Web server.
