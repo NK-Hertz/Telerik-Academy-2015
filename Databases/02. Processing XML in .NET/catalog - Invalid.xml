@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog-xml2html.xslt"?>
+<catalog>
+  <album>
+    <name>In Return</name>
+    <artist>ODESZA</artist>
+    <year>2014</year>
+    <producer>ODESZA</producer>
+    <songs>
+      <song>
+        <title>Bloom</title>
+        <duration>3:14</duration>
+      </song>
+      <song>
+        <title>Say My Name</title>
+        <duration>4:26</duration>
+      </song>
+      <song>
+        <title>Sun Models</title>
+        <duration>2:41</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Sirens</name>
+    <artist>Gorgon City</artist>
+    <year>490</year>
+    <producer>Gorgon City</producer>
+    <price>10.79</price>
+    <songs>
+      <song>
+        <title>Coming Home</title>
+        <duration>4:06</duration>
+      </song>
+      <song>
+        <title>Lover Like You</title>
+        <duration>3:36</duration>
+      </song>
+      <song>
+        <title>Unmissable</title>
+        <duration>3:38</duration>
+      </song>
+      <song>
+        <title>Imagination</title>
+        <duration>3:37</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>AM</name>
+    <artist>Arctic Monkeys</artist>
+    <year>2013</year>
+    <producer>Arctic Monkeys</producer>
+    <price>11.37</price>
+    <songs>
+      <song>
+        <title>Do I Wanna Know?</title>
+        <duration>4:32</duration>
+      </song>
+      <song>
+        <title>R U Mine?</title>
+        <duration>3:20</duration>
+      </song>
+      <song>
+        <title>I Wanna Be Yours</title>
+        <duration>3:04</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>PM</name>
+    <artist>Arctic Monkeys</artist>
+    <year>2013</year>
+    <producer>Arctic Monkeys</producer>
+    <price>25.00</price>
+    <songs>
+      <song>
+        <title>Do I Wanna Know?</title>
+        <duration>4:32</duration>
+      </song>
+      <song>
+        <title>R U Mine?</title>
+        <duration>3:20</duration>
+      </song>
+      <song>
+        <title>I Wanna Be Yours</title>
+        <duration>3:04</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
