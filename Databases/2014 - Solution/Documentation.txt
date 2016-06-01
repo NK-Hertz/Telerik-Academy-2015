@@ -1,0 +1,24 @@
+Connection string for "CarsCodeFirst" database:
+	
+
+connectionString="Data Source=.;Initial Catalog=Cars;Integrated Security=true;" 
+         providerName="System.Data.SqlClient"
+
+Relationships for "Company" database:
+	
+* Employees:Employees one-to-many
+	
+* Employees:Projects many-to-many
+	
+* Employees:Reports one-to-many
+	
+* Departmesnts:Employees one-to-many
+
+
+Relationships for "Cars" database:
+	
+* Dealers:Cities many-to-many
+	
+* Dealers:Cars one-to-many
+	
+* Manufacturers:Cars one-to-many

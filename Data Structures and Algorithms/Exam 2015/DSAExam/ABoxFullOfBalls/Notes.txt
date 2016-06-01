@@ -1,0 +1,24 @@
+﻿4 1 3
+1 5
+
+1 - 1
+2 - 1, 1 X
+3 - 3
+4 - 4
+5 - 3, 1, 1
+
+optimally - using the turns we have to create a wining condition for themselves - meaning all solutions which are created by odd number of steps
+
+1 1 1 1 1
+1 1 3
+1 3 1
+1 4
+3 1 1
+4 1
+
+from the biggest go to smaller
+4 + 4 >? 5
+
+4 + 3 >? 5
+
+3 + 1 + 1 == 5

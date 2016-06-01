@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.KnapsackProblem", "01.KnapsackProblem\01.KnapsackProblem.csproj", "{42E249C8-9685-447F-938C-9EA96D51236F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumEditDistance", "MinimumEditDistance\MinimumEditDistance.csproj", "{047650F6-A6D8-41AB-8454-6E274EB8CFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci", "Tribonacci\Tribonacci.csproj", "{E7FE9AD9-D2F2-4D06-A8EC-22DCF3C46589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSum", "SuperSum\SuperSum.csproj", "{B964DA92-244C-4B31-9428-29E6CF02180E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brackets", "Brackets\Brackets.csproj", "{A89A2415-825A-4CBC-9312-2193847ABD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E249C8-9685-447F-938C-9EA96D51236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E249C8-9685-447F-938C-9EA96D51236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E249C8-9685-447F-938C-9EA96D51236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E249C8-9685-447F-938C-9EA96D51236F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047650F6-A6D8-41AB-8454-6E274EB8CFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047650F6-A6D8-41AB-8454-6E274EB8CFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047650F6-A6D8-41AB-8454-6E274EB8CFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047650F6-A6D8-41AB-8454-6E274EB8CFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FE9AD9-D2F2-4D06-A8EC-22DCF3C46589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FE9AD9-D2F2-4D06-A8EC-22DCF3C46589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FE9AD9-D2F2-4D06-A8EC-22DCF3C46589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FE9AD9-D2F2-4D06-A8EC-22DCF3C46589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B964DA92-244C-4B31-9428-29E6CF02180E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B964DA92-244C-4B31-9428-29E6CF02180E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B964DA92-244C-4B31-9428-29E6CF02180E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B964DA92-244C-4B31-9428-29E6CF02180E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89A2415-825A-4CBC-9312-2193847ABD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89A2415-825A-4CBC-9312-2193847ABD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89A2415-825A-4CBC-9312-2193847ABD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89A2415-825A-4CBC-9312-2193847ABD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
