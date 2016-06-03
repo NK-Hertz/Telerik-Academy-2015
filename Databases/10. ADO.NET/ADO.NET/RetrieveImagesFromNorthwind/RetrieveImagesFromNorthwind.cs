@@ -21,9 +21,12 @@ namespace RetrieveImagesFromNorthwind
             {
                 while (reader.Read())
                 {
-
+					// TO DO:
+					// store them as JPG files in the file system.
                 }
             }
+			
+			connecion.Close();
         }
     }
 }
