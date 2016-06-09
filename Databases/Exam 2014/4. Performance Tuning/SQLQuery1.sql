@@ -6,9 +6,9 @@ AS
 	CREATE TABLE EmployeesInfo
 	(
 		Id int IDENTITY PRIMARY KEY,
-		FullName nvarchar(100) NOT NULL,
-		Project nvarchar(100) NOT NULL,
-		Department nvarchar(100) NOT NULL,
+		FullName nvarchar(41) NOT NULL,
+		Project nvarchar(50) NOT NULL,
+		Department nvarchar(50) NOT NULL,
 		StartDate datetime NOT NULL,
 		EndDate datetime NOT NULL,
 		TotalReportsDuringCurrentProjectWorktime int NOT NULL,
@@ -20,6 +20,7 @@ GO
 
 CREATE PROC usp_UpdateDataInEmployeesInfoCacheTable 
 AS	
+	DELETE FROM EmployeesInfo
 	INSERT INTO EmployeesInfo
 		SELECT e.FirstName + ' ' + e.LastName AS FullName,
 		 p.Name AS Project, 
@@ -38,5 +39,5 @@ GO
 EXEC usp_UpdateDataInEmployeesInfoCacheTable
 GO
 
-DROP PROC usp_CreateEmployeesInfoCacheTable
-DROP PROC usp_UpdateDataInEmployeesInfoCacheTable
+-- DROP PROC usp_CreateEmployeesInfoCacheTable
+-- DROP PROC usp_UpdateDataInEmployeesInfoCacheTable
